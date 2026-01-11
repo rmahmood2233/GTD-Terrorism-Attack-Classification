@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit-learn-1.3-green)](https://scikit-learn.org)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/GTD-Terrorism-Attack-Classification/blob/main/notebooks/02-Preprocessing-Pipeline.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rmahmood2233/GTD-Terrorism-Attack-Classification/blob/main/notebooks/Part 2_ PROJECT PIPELINE.ipynb)
 
 ---
 
